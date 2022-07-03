@@ -1,0 +1,74 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+footer{
+    background-color: rgb(247, 247, 247);
+    padding: 15px;
+}
+
+#topMenu {
+    display: flex;
+    background-color: rgb(247, 247, 247);
+    margin:0;
+}
+#topMenu li {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding:10px;
+}
+#topMenu li first-child {
+    margin-right: auto;
+}
+.sectioninicio{
+    display: flex;
+    height: 30vw;
+    background-color: blanchedalmond;
+}
+.section1 {
+    display: flex;
+    height: 15vw;
+    background-color: blanchedalmond;
+}
+.centralize {
+margin:auto;
+text-align: center;
+}
+.section2 {
+    display: flex;
+    height: 20vw;
+    background-color: white;
+    /*width:33vh;*/
+}
+.ImagemTrabalho {
+    width:15vw;
+    height:15vw;
+    padding-left:15px;
+}
+.ImagemContato{
+    width:15vw;
+    height:15vw;
+    padding-left:15px;
+    background-color: transparent;
+
+}
+.sectionContato {
+    display: flex;
+    height: 15vw;
+    background-color: blanchedalmond;
+}
+.section3 {
+    display: flex;
+    height: 20vw;
+    background-color:blanchedalmond;
+    /*width:33vh; */
+}
+.section4 {
+    display: flex;
+    height: 20vw;
+    background-color:white;
+}
