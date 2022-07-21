@@ -6,13 +6,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 footer{
-    background-color: rgb(247, 247, 247);
+    background-color: white;
     padding: 15px;
 }
 
 #topMenu {
     display: flex;
-    background-color: rgb(247, 247, 247);
+    background-color: white;
     margin:0;
 }
 #topMenu li {
